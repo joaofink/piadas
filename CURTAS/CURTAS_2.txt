@@ -1,0 +1,11 @@
+- Qual sua habilidade?
+
+- Responder cálculos rapidamente.
+
+- Quanto é 42 x 3 ÷ 2?
+
+- 54
+
+- Errou feio!
+
+- Mas respondi rapidamente!
